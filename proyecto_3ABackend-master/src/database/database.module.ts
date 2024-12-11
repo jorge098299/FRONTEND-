@@ -19,8 +19,8 @@ import { ConfigModule } from 'src/config/config.module';
                 entities: [
                     __dirname + '/../**/*.entity{.ts,.js}',
                 ],
-                synchronize: true,
-                logging:true,
+                //synchronize: true,
+                //logging:true,
             })
         })
     ],
